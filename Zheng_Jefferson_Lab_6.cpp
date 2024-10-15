@@ -1,4 +1,4 @@
-//Jefferson Zheng
+//Jefferson Zheng, Wen Qian Zheng
 //October 15, 2024
 //Lab 6
 
